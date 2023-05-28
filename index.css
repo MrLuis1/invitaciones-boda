@@ -254,8 +254,9 @@ body, html {
 }
 
 .invitados > * {
-    font-size: 14px;
+    font-size: 18px;
     margin: 0;
+    color: #9D8028;
 }
 
 .invitados > .invitado-1 {
